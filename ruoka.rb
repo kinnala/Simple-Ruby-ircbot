@@ -17,7 +17,8 @@ class Ruoka < IRC_Module
             'teekkariravintolat' => 'teekkariravintolat',
             'kvarkki' => 'kvarkki',
             'keltsu' => 'cantina',
-            'cantina' => 'cantina'
+            'cantina' => 'cantina',
+            'tuas' => 'tuas'
         }
         synonyms[str]
     end
